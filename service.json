@@ -1,0 +1,11 @@
+{
+  "name": "SmallCloud Frontend",
+  "description": "Web frontend for SmallCloud using Angular 1.x",
+  "version": "0.0.1",
+  "author": "Andreas Abilio <andreas@abilio.dk>",
+  "license": "MIT",
+
+  "backend": false,
+  "frontend": "standalone",
+  "dependencies": {}
+}
